@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Playwrite+AU+TAS:wght@100..400&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html ,body{
+  height: 100%;
+  width: 100%;
+}
+.container{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  color: white;
+  font-family: "Playwrite AU TAS", cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
